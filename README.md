@@ -19,7 +19,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Test your implementations in Utilisateur Menu
 
-## GET FRONTEND**
+**GET FRONTEND**
    
 ![img_1.png](img_1.png)
    
@@ -28,9 +28,7 @@ Test your implementations in Utilisateur Menu
 ![img_2.png](img_2.png)
    
    
-3. POST
-   
-**NEW USER**
+**POST NEW USER**
    
 ![img_3.png](img_3.png)
   
@@ -46,15 +44,21 @@ Test your implementations in Utilisateur Menu
 
 ![img_6.png](img_6.png)
    
-4. PUT
-   **EDIT USER**
-   ![img_7.png](img_7.png)
-   **RESULT NEW USER**
-   ![img_9.png](img_9.png)
-   **VALIDATION OF NULL**
-   ![img_8.png](img_8.png)
-   **DATABASE**
-   ![img_10.png](img_10.png)
+**EDIT USER**
+
+![img_7.png](img_7.png)
+
+**RESULT NEW USER**
+
+![img_9.png](img_9.png)
+
+**VALIDATION OF NULL**
+   
+![img_8.png](img_8.png)
+   
+**DATABASE**
+   
+![img_10.png](img_10.png)
    
    
 **Authors**
