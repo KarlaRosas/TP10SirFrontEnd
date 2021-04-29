@@ -15,26 +15,36 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Start Backend server and database
 3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-**How it works**
+##How it works
 
-1. Test your implementations in Utilisateur Menu
-2. **GET FRONTEND**
+Test your implementations in Utilisateur Menu
+
+##GET FRONTEND**
    
 ![img_1.png](img_1.png)
-   **DATABASE**
+   
+**DATABASE**
    
 ![img_2.png](img_2.png)
    
    
 3. POST
-   **NEW USER**
-   ![img_3.png](img_3.png)
-  **RESULT NEW USER**
-   ![img_4.png](img_4.png)
-  **VALIDATION OF NULL**
-   ![img_5.png](img_5.png)
-  **DATABASE**
-   ![img_6.png](img_6.png)
+   
+**NEW USER**
+   
+![img_3.png](img_3.png)
+  
+**RESULT NEW USER**
+
+![img_4.png](img_4.png)
+  
+**VALIDATION OF NULL**
+
+![img_5.png](img_5.png)
+  
+**DATABASE**
+
+![img_6.png](img_6.png)
    
 4. PUT
    **EDIT USER**
