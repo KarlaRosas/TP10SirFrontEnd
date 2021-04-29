@@ -4,11 +4,11 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { UtilisateurComponent } from './Components/utilisateur/utilisateur.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
-import { FormsModule } from '@angular/forms';
 import { UtilisateurService } from '../app/Service/utilisateur.service';
 import { HttpClientModule } from '@angular/common/http';
 import { TagComponent } from './Components/tag/tag.component';
 import { TagService } from '../app/Service/tag.service';
+import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -21,7 +21,8 @@ import { TagService } from '../app/Service/tag.service';
     AppRoutingModule,
     NgbModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [UtilisateurService, TagService],
   bootstrap: [AppComponent]
