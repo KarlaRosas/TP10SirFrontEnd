@@ -15,11 +15,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. Start Backend server and database
 3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-##How it works
+## How it works
 
 Test your implementations in Utilisateur Menu
 
-##GET FRONTEND**
+## GET FRONTEND**
    
 ![img_1.png](img_1.png)
    
