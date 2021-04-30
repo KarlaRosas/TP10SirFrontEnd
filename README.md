@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Prerequisites
 ### For Users
 *  [Angular CLI] >= 11.2.5
-* IDE  (Intelliji Idea, WebStorm)
+* IDE  (WebStorm, Visual Studio Code)
 * Run the backend project https://github.com/KarlaRosas/SIR_TD10_Backend 
 
 
